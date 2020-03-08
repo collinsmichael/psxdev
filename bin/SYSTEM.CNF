@@ -1,0 +1,4 @@
+BOOT = cdrom:\game.prg;1
+TCB = 4
+EVENT = 16
+STACK = 801fff00
